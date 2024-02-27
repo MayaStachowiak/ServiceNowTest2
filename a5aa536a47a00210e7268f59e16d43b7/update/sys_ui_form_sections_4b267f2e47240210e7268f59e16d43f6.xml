@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="4b267f2e47240210e7268f59e16d43f6" sys_domain="global" table="x_1318522_mcstudio_device_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-27 13:19:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7267f2e47240210e7268f59e16d43f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1318522_mcstudio_device_request" name="x_1318522_mcstudio_device_request" sys_domain="global" view="Default view">4b267f2e47240210e7268f59e16d43f6</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1318522_mcstudio_device_request" sys_domain="global" view="Default view">ebd17ba647240210e7268f59e16d433a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-27 13:19:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-27 13:34:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0b9f32247640210e7268f59e16d43f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1318522_mcstudio_device_request" name="x_1318522_mcstudio_device_request" sys_domain="global" view="Default view">4b267f2e47240210e7268f59e16d43f6</sys_ui_form>
+            <sys_ui_section caption="Device Details" display_value="Device Details" name="x_1318522_mcstudio_device_request" sys_domain="global" view="Default view">c8b9f32247640210e7268f59e16d43f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-27 13:34:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-27 13:36:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9bf97b2247640210e7268f59e16d43f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1318522_mcstudio_device_request" name="x_1318522_mcstudio_device_request" sys_domain="global" view="Default view">4b267f2e47240210e7268f59e16d43f6</sys_ui_form>
+            <sys_ui_section caption="Delivery Details" display_value="Delivery Details" name="x_1318522_mcstudio_device_request" sys_domain="global" view="Default view">d3f97b2247640210e7268f59e16d4350</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-27 13:36:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1318522_mcstudio_device_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-27 13:19:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b267f2e47240210e7268f59e16d43f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1318522_mcstudio_device_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MCStudio" source="x_1318522_mcstudio">a5aa536a47a00210e7268f59e16d43b7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MCStudio">a5aa536a47a00210e7268f59e16d43b7</sys_scope>
+            <sys_update_name>sys_ui_form_sections_4b267f2e47240210e7268f59e16d43f6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-27 13:19:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
