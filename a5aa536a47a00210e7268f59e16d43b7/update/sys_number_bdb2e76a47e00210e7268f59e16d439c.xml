@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1318522_mcstudio_device_request">x_1318522_mcstudio_device_request</category>
+        <maximum_digits>4</maximum_digits>
+        <number>1000</number>
+        <prefix>DR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-27 11:54:25</sys_created_on>
+        <sys_id>bdb2e76a47e00210e7268f59e16d439c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DR</sys_name>
+        <sys_package display_value="MCStudio" source="x_1318522_mcstudio">a5aa536a47a00210e7268f59e16d43b7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MCStudio">a5aa536a47a00210e7268f59e16d43b7</sys_scope>
+        <sys_update_name>sys_number_bdb2e76a47e00210e7268f59e16d439c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-27 11:54:25</sys_updated_on>
+    </sys_number>
+</record_update>
