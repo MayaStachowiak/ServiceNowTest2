@@ -4,13 +4,13 @@
             <element>u_model</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-27 13:34:49</sys_created_on>
-            <sys_id>10b9372247640210e7268f59e16d43e2</sys_id>
+            <sys_created_on>2024-02-27 15:17:17</sys_created_on>
+            <sys_id>d92114f647a40210e7268f59e16d43bb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Device Details" display_value="Device Details" name="x_1318522_mcstudio_device_request" sys_domain="global" view="Default view">c8b9f32247640210e7268f59e16d43f6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-27 13:34:49</sys_updated_on>
+            <sys_updated_on>2024-02-27 15:17:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,55 +18,55 @@
             <element>u_price_8</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-27 13:34:49</sys_created_on>
-            <sys_id>90b9372247640210e7268f59e16d43e2</sys_id>
+            <sys_created_on>2024-02-27 15:17:17</sys_created_on>
+            <sys_id>512114f647a40210e7268f59e16d43bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Device Details" display_value="Device Details" name="x_1318522_mcstudio_device_request" sys_domain="global" view="Default view">c8b9f32247640210e7268f59e16d43f6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-27 13:34:49</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-27 13:34:49</sys_created_on>
-            <sys_id>14b9372247640210e7268f59e16d43e2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Device Details" display_value="Device Details" name="x_1318522_mcstudio_device_request" sys_domain="global" view="Default view">c8b9f32247640210e7268f59e16d43f6</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-27 13:34:49</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_device_description</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-27 13:34:49</sys_created_on>
-            <sys_id>94b9372247640210e7268f59e16d43e2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Device Details" display_value="Device Details" name="x_1318522_mcstudio_device_request" sys_domain="global" view="Default view">c8b9f32247640210e7268f59e16d43f6</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-27 13:34:49</sys_updated_on>
+            <sys_updated_on>2024-02-27 15:17:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_warranty_expiration_2</element>
-            <position>4</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-27 13:34:49</sys_created_on>
-            <sys_id>18b9372247640210e7268f59e16d43e2</sys_id>
+            <sys_created_on>2024-02-27 15:17:17</sys_created_on>
+            <sys_id>d12114f647a40210e7268f59e16d43bc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Device Details" display_value="Device Details" name="x_1318522_mcstudio_device_request" sys_domain="global" view="Default view">c8b9f32247640210e7268f59e16d43f6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-27 13:34:49</sys_updated_on>
+            <sys_updated_on>2024-02-27 15:17:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-27 15:17:17</sys_created_on>
+            <sys_id>552114f647a40210e7268f59e16d43bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Device Details" display_value="Device Details" name="x_1318522_mcstudio_device_request" sys_domain="global" view="Default view">c8b9f32247640210e7268f59e16d43f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-27 15:17:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_device_description</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-27 15:17:17</sys_created_on>
+            <sys_id>d52114f647a40210e7268f59e16d43bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Device Details" display_value="Device Details" name="x_1318522_mcstudio_device_request" sys_domain="global" view="Default view">c8b9f32247640210e7268f59e16d43f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-27 15:17:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
